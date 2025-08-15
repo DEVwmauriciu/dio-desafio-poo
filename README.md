@@ -1,0 +1,1 @@
+O objetivo principal é colocar em prática os principais pilares da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
